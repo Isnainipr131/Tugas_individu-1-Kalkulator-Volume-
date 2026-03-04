@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas_individu1
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Tugas_individu-1-Kalkulator-Volume-
+>>>>>>> b513749d7ba1b696931c22f472caf30785434e50
